@@ -39,6 +39,7 @@
     "@types/lodash": "^4.14.176",
     "@types/node": "^12.6.8",
     "@types/promise-sequential": "^1.1.0",
+    "@types/semver": "^7.3.9",
     "@typescript-eslint/eslint-plugin": "^2.3.2",
     "@typescript-eslint/parser": "^2.3.2",
     "app-root-path": "^2.2.1",
