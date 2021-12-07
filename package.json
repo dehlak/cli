@@ -73,7 +73,7 @@
     "form-data": "^4.0.0",
     "fs-extra": "^8.1.0",
     "joi": "^17.2.1",
-    "jsdoc-api": "^7.0.0",
+    "jsdoc-api": "^7.1.0",
     "jsonschema": "^1.4.0",
     "lodash": "^4.17.21",
     "minimist": "^1.2.5",
